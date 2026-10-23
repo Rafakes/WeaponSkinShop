@@ -1,0 +1,711 @@
+{
+  "totalItems": 70,
+  "skinFamilies": [
+    "cobalt",
+    "cyberpunk"
+  ],
+  "totalSkins": 140,
+  "uniqueTextures": 68,
+  "weapons": [
+    {
+      "category": "Pistolas",
+      "item": "M92FS",
+      "fullType": "MarzGuns.M92FS",
+      "originalModel": "MarzGuns.M92FS",
+      "model": "WeaponSkinShop.M92FS_Cobalt",
+      "textureName": "M92FS",
+      "sourceTexture": "weapons/firearms/pistols/M92FS",
+      "sourceIcon": "item_M92FS.png"
+    },
+    {
+      "category": "Pistolas",
+      "item": "M93R",
+      "fullType": "MarzGuns.M93R",
+      "originalModel": "MarzGuns.M93R",
+      "model": "WeaponSkinShop.M93R_Cobalt",
+      "textureName": "M93R",
+      "sourceTexture": "weapons/firearms/pistols/M93R",
+      "sourceIcon": "item_M93R.png"
+    },
+    {
+      "category": "Pistolas",
+      "item": "HIPOWER",
+      "fullType": "MarzGuns.HIPOWER",
+      "originalModel": "MarzGuns.HIPOWER",
+      "model": "WeaponSkinShop.HIPOWER_Cobalt",
+      "textureName": "HIPOWER",
+      "sourceTexture": "weapons/firearms/pistols/HIPOWER",
+      "sourceIcon": "item_HIPOWER.png"
+    },
+    {
+      "category": "Pistolas",
+      "item": "P226",
+      "fullType": "MarzGuns.P226",
+      "originalModel": "MarzGuns.P226",
+      "model": "WeaponSkinShop.P226_Cobalt",
+      "textureName": "P226",
+      "sourceTexture": "weapons/firearms/pistols/P226",
+      "sourceIcon": "item_P226.png"
+    },
+    {
+      "category": "Pistolas",
+      "item": "M1911",
+      "fullType": "MarzGuns.M1911",
+      "originalModel": "MarzGuns.M1911",
+      "model": "WeaponSkinShop.M1911_Cobalt",
+      "textureName": "M1911",
+      "sourceTexture": "weapons/firearms/pistols/M1911",
+      "sourceIcon": "item_M1911.png"
+    },
+    {
+      "category": "Pistolas",
+      "item": "USP",
+      "fullType": "MarzGuns.USP",
+      "originalModel": "MarzGuns.USP",
+      "model": "WeaponSkinShop.USP_Cobalt",
+      "textureName": "USP",
+      "sourceTexture": "weapons/firearms/pistols/USP",
+      "sourceIcon": "item_USP.png"
+    },
+    {
+      "category": "Pistolas",
+      "item": "DEAGLE",
+      "fullType": "MarzGuns.DEAGLE",
+      "originalModel": "MarzGuns.DEAGLE",
+      "model": "WeaponSkinShop.DEAGLE_Cobalt",
+      "textureName": "DEAGLE",
+      "sourceTexture": "weapons/firearms/pistols/DEAGLE",
+      "sourceIcon": "item_DEAGLE.png"
+    },
+    {
+      "category": "Pistolas",
+      "item": "VP70M",
+      "fullType": "MarzGuns.VP70M",
+      "originalModel": "MarzGuns.VP70M",
+      "model": "WeaponSkinShop.VP70M_Cobalt",
+      "textureName": "VP70M",
+      "sourceTexture": "weapons/firearms/pistols/VP70M",
+      "sourceIcon": "item_VP70M.png"
+    },
+    {
+      "category": "Revólveres",
+      "item": "SW629",
+      "fullType": "MarzGuns.SW629",
+      "originalModel": "MarzGuns.SW629",
+      "model": "WeaponSkinShop.SW629_Cobalt",
+      "textureName": "SW629",
+      "sourceTexture": "weapons/firearms/revolvers/SW629",
+      "sourceIcon": "item_SW629.png"
+    },
+    {
+      "category": "Revólveres",
+      "item": "PYTHON",
+      "fullType": "MarzGuns.PYTHON",
+      "originalModel": "MarzGuns.PYTHON",
+      "model": "WeaponSkinShop.PYTHON_Cobalt",
+      "textureName": "PYTHON",
+      "sourceTexture": "weapons/firearms/revolvers/PYTHON",
+      "sourceIcon": "item_PYTHON.png"
+    },
+    {
+      "category": "Revólveres",
+      "item": "RHINO",
+      "fullType": "MarzGuns.RHINO",
+      "originalModel": "MarzGuns.RHINO",
+      "model": "WeaponSkinShop.RHINO_Cobalt",
+      "textureName": "RHINO",
+      "sourceTexture": "weapons/firearms/revolvers/RHINO",
+      "sourceIcon": "item_RHINO.png"
+    },
+    {
+      "category": "Revólveres",
+      "item": "MP412",
+      "fullType": "MarzGuns.MP412",
+      "originalModel": "MarzGuns.MP412",
+      "model": "WeaponSkinShop.MP412_Cobalt",
+      "textureName": "MP412",
+      "sourceTexture": "weapons/firearms/revolvers/MP412",
+      "sourceIcon": "item_MP412.png"
+    },
+    {
+      "category": "Revólveres",
+      "item": "COLT_SINGLE",
+      "fullType": "MarzGuns.COLT_SINGLE",
+      "originalModel": "MarzGuns.COLT_SINGLE",
+      "model": "WeaponSkinShop.COLT_SINGLE_Cobalt",
+      "textureName": "COLT_SINGLE",
+      "sourceTexture": "weapons/firearms/revolvers/COLT_SINGLE",
+      "sourceIcon": "item_COLT_SINGLE.png"
+    },
+    {
+      "category": "Revólveres",
+      "item": "DETECTIVE_38",
+      "fullType": "MarzGuns.DETECTIVE_38",
+      "originalModel": "MarzGuns.DETECTIVE_38",
+      "model": "WeaponSkinShop.DETECTIVE_38_Cobalt",
+      "textureName": "DETECTIVE_38",
+      "sourceTexture": "weapons/firearms/revolvers/DETECTIVE_38",
+      "sourceIcon": "item_DETECTIVE_38.png"
+    },
+    {
+      "category": "Submetralhadoras",
+      "item": "THOMPSON",
+      "fullType": "MarzGuns.THOMPSON",
+      "originalModel": "MarzGuns.THOMPSON",
+      "model": "WeaponSkinShop.THOMPSON_Cobalt",
+      "textureName": "THOMPSON",
+      "sourceTexture": "weapons/firearms/smgs/THOMPSON",
+      "sourceIcon": "item_THOMPSON.png"
+    },
+    {
+      "category": "Submetralhadoras",
+      "item": "MP5",
+      "fullType": "MarzGuns.MP5",
+      "originalModel": "MarzGuns.MP5",
+      "model": "WeaponSkinShop.MP5_Cobalt",
+      "textureName": "MP5",
+      "sourceTexture": "weapons/firearms/smgs/MP5",
+      "sourceIcon": "item_MP5.png"
+    },
+    {
+      "category": "Submetralhadoras",
+      "item": "MP5SD",
+      "fullType": "MarzGuns.MP5SD",
+      "originalModel": "MarzGuns.MP5SD",
+      "model": "WeaponSkinShop.MP5SD_Cobalt",
+      "textureName": "MP5SD",
+      "sourceTexture": "weapons/firearms/smgs/MP5SD",
+      "sourceIcon": "item_MP5SD.png"
+    },
+    {
+      "category": "Submetralhadoras",
+      "item": "MP5A2",
+      "fullType": "MarzGuns.MP5A2",
+      "originalModel": "MarzGuns.MP5A2",
+      "model": "WeaponSkinShop.MP5A2_Cobalt",
+      "textureName": "MP5A2",
+      "sourceTexture": "weapons/firearms/smgs/MP5A2",
+      "sourceIcon": "item_MP5A2.png"
+    },
+    {
+      "category": "Submetralhadoras",
+      "item": "MP5K",
+      "fullType": "MarzGuns.MP5K",
+      "originalModel": "MarzGuns.MP5K",
+      "model": "WeaponSkinShop.MP5K_Cobalt",
+      "textureName": "MP5K",
+      "sourceTexture": "weapons/firearms/smgs/MP5K",
+      "sourceIcon": "item_MP5K.png"
+    },
+    {
+      "category": "Submetralhadoras",
+      "item": "TEC9",
+      "fullType": "MarzGuns.TEC9",
+      "originalModel": "MarzGuns.TEC9",
+      "model": "WeaponSkinShop.TEC9_Cobalt",
+      "textureName": "TEC9",
+      "sourceTexture": "weapons/firearms/smgs/TEC9",
+      "sourceIcon": "item_TEC9.png"
+    },
+    {
+      "category": "Submetralhadoras",
+      "item": "MAC10",
+      "fullType": "MarzGuns.MAC10",
+      "originalModel": "MarzGuns.MAC10",
+      "model": "WeaponSkinShop.MAC10_Cobalt",
+      "textureName": "MAC10",
+      "sourceTexture": "weapons/firearms/smgs/MAC10",
+      "sourceIcon": "item_MAC10.png"
+    },
+    {
+      "category": "Escopetas",
+      "item": "MOSSBERG_590",
+      "fullType": "MarzGuns.MOSSBERG_590",
+      "originalModel": "MarzGuns.MOSSBERG_590",
+      "model": "WeaponSkinShop.MOSSBERG_590_Cobalt",
+      "textureName": "MOSSBERG_590",
+      "sourceTexture": "weapons/firearms/shotguns/MOSSBERG_590",
+      "sourceIcon": "item_MOSSBERG_590.png"
+    },
+    {
+      "category": "Escopetas",
+      "item": "TRENCHGUN",
+      "fullType": "MarzGuns.TRENCHGUN",
+      "originalModel": "MarzGuns.TRENCHGUN",
+      "model": "WeaponSkinShop.TRENCHGUN_Cobalt",
+      "textureName": "TRENCHGUN",
+      "sourceTexture": "weapons/firearms/shotguns/TRENCHGUN",
+      "sourceIcon": "item_TRENCHGUN.png"
+    },
+    {
+      "category": "Escopetas",
+      "item": "BENELLI_M4",
+      "fullType": "MarzGuns.BENELLI_M4",
+      "originalModel": "MarzGuns.BENELLI_M4",
+      "model": "WeaponSkinShop.BENELLI_M4_Cobalt",
+      "textureName": "BENELLI_M4",
+      "sourceTexture": "weapons/firearms/shotguns/BENELLI_M4",
+      "sourceIcon": "item_BENELLI_M4.png"
+    },
+    {
+      "category": "Escopetas",
+      "item": "SPAS12",
+      "fullType": "MarzGuns.SPAS12",
+      "originalModel": "MarzGuns.SPAS12",
+      "model": "WeaponSkinShop.SPAS12_Cobalt",
+      "textureName": "SPAS12",
+      "sourceTexture": "weapons/firearms/shotguns/SPAS12",
+      "sourceIcon": "item_SPAS12.png"
+    },
+    {
+      "category": "Escopetas",
+      "item": "STEVENS_555",
+      "fullType": "MarzGuns.STEVENS_555",
+      "originalModel": "MarzGuns.STEVENS_555",
+      "model": "WeaponSkinShop.STEVENS_555_Cobalt",
+      "textureName": "STEVENS_555",
+      "sourceTexture": "weapons/firearms/shotguns/STEVENS_555",
+      "sourceIcon": "item_STEVENS_555.png"
+    },
+    {
+      "category": "Escopetas",
+      "item": "DOUBLEBARREL",
+      "fullType": "MarzGuns.DOUBLEBARREL",
+      "originalModel": "MarzGuns.DOUBLEBARREL",
+      "model": "WeaponSkinShop.DOUBLEBARREL_Cobalt",
+      "textureName": "DOUBLEBARREL",
+      "sourceTexture": "weapons/firearms/shotguns/DOUBLEBARREL",
+      "sourceIcon": "item_DOUBLEBARREL.png"
+    },
+    {
+      "category": "Escopetas",
+      "item": "AA12",
+      "fullType": "MarzGuns.AA12",
+      "originalModel": "MarzGuns.AA12",
+      "model": "WeaponSkinShop.AA12_Cobalt",
+      "textureName": "AA12",
+      "sourceTexture": "weapons/firearms/shotguns/AA12",
+      "sourceIcon": "item_AA12.png"
+    },
+    {
+      "category": "Escopetas",
+      "item": "REMINGTON_870",
+      "fullType": "MarzGuns.REMINGTON_870",
+      "originalModel": "MarzGuns.REMINGTON_870",
+      "model": "WeaponSkinShop.REMINGTON_870_Cobalt",
+      "textureName": "REMINGTON_870",
+      "sourceTexture": "weapons/firearms/shotguns/REMINGTON_870",
+      "sourceIcon": "item_REMINGTON_870.png"
+    },
+    {
+      "category": "Escopetas",
+      "item": "TOZ34",
+      "fullType": "MarzGuns.TOZ34",
+      "originalModel": "MarzGuns.TOZ34",
+      "model": "WeaponSkinShop.TOZ34_Cobalt",
+      "textureName": "TOZ34",
+      "sourceTexture": "weapons/firearms/shotguns/TOZ34",
+      "sourceIcon": "item_TOZ34.png"
+    },
+    {
+      "category": "Fuzis de assalto",
+      "item": "M16A1",
+      "fullType": "MarzGuns.M16A1",
+      "originalModel": "MarzGuns.M16A1",
+      "model": "WeaponSkinShop.M16A1_Cobalt",
+      "textureName": "M16A1",
+      "sourceTexture": "weapons/firearms/assault_rifles/M16A1",
+      "sourceIcon": "item_M16A1.png"
+    },
+    {
+      "category": "Fuzis de assalto",
+      "item": "M16A2",
+      "fullType": "MarzGuns.M16A2",
+      "originalModel": "MarzGuns.M16A2",
+      "model": "WeaponSkinShop.M16A2_Cobalt",
+      "textureName": "M16A2",
+      "sourceTexture": "weapons/firearms/assault_rifles/M16A2",
+      "sourceIcon": "item_M16.png"
+    },
+    {
+      "category": "Fuzis de assalto",
+      "item": "M16A2_M203",
+      "fullType": "MarzGuns.M16A2_M203",
+      "originalModel": "MarzGuns.M16A2_M203",
+      "model": "WeaponSkinShop.M16A2_M203_Cobalt",
+      "textureName": "M16A2_M203",
+      "sourceTexture": "weapons/firearms/assault_rifles/M16A2_M203",
+      "sourceIcon": "item_M16A2_M203.png"
+    },
+    {
+      "category": "Fuzis de assalto",
+      "item": "M16A3",
+      "fullType": "MarzGuns.M16A3",
+      "originalModel": "MarzGuns.M16A3",
+      "model": "WeaponSkinShop.M16A3_Cobalt",
+      "textureName": "M16A3",
+      "sourceTexture": "weapons/firearms/assault_rifles/M16A3",
+      "sourceIcon": "item_M16A3.png"
+    },
+    {
+      "category": "Fuzis de assalto",
+      "item": "AR15",
+      "fullType": "MarzGuns.AR15",
+      "originalModel": "MarzGuns.AR15",
+      "model": "WeaponSkinShop.AR15_Cobalt",
+      "textureName": "AR15",
+      "sourceTexture": "weapons/firearms/assault_rifles/AR15",
+      "sourceIcon": "item_M16.png"
+    },
+    {
+      "category": "Fuzis de assalto",
+      "item": "FNC",
+      "fullType": "MarzGuns.FNC",
+      "originalModel": "MarzGuns.FNC",
+      "model": "WeaponSkinShop.FNC_Cobalt",
+      "textureName": "FNC",
+      "sourceTexture": "weapons/firearms/assault_rifles/FNC",
+      "sourceIcon": "item_FNC.png"
+    },
+    {
+      "category": "Fuzis de assalto",
+      "item": "CAR15",
+      "fullType": "MarzGuns.CAR15",
+      "originalModel": "MarzGuns.CAR15",
+      "model": "WeaponSkinShop.CAR15_Cobalt",
+      "textureName": "CAR15",
+      "sourceTexture": "weapons/firearms/assault_rifles/CAR15",
+      "sourceIcon": "item_CAR15.png"
+    },
+    {
+      "category": "Fuzis de assalto",
+      "item": "XM177",
+      "fullType": "MarzGuns.XM177",
+      "originalModel": "MarzGuns.XM177",
+      "model": "WeaponSkinShop.XM177_Cobalt",
+      "textureName": "XM177",
+      "sourceTexture": "weapons/firearms/assault_rifles/XM177",
+      "sourceIcon": "item_XM177.png"
+    },
+    {
+      "category": "Fuzis de assalto",
+      "item": "M4A1",
+      "fullType": "MarzGuns.M4A1",
+      "originalModel": "MarzGuns.M4A1",
+      "model": "WeaponSkinShop.M4A1_Cobalt",
+      "textureName": "M4A1",
+      "sourceTexture": "weapons/firearms/assault_rifles/M4A1",
+      "sourceIcon": "item_M4A1.png"
+    },
+    {
+      "category": "Fuzis de assalto",
+      "item": "G36C",
+      "fullType": "MarzGuns.G36C",
+      "originalModel": "MarzGuns.G36C",
+      "model": "WeaponSkinShop.G36C_Cobalt",
+      "textureName": "G36C",
+      "sourceTexture": "weapons/firearms/assault_rifles/G36C",
+      "sourceIcon": "item_G36C.png"
+    },
+    {
+      "category": "Fuzis de assalto",
+      "item": "G36",
+      "fullType": "MarzGuns.G36",
+      "originalModel": "MarzGuns.G36",
+      "model": "WeaponSkinShop.G36_Cobalt",
+      "textureName": "G36",
+      "sourceTexture": "weapons/firearms/assault_rifles/G36",
+      "sourceIcon": "item_G36.png"
+    },
+    {
+      "category": "Fuzis de assalto",
+      "item": "AK74",
+      "fullType": "MarzGuns.AK74",
+      "originalModel": "MarzGuns.AK74",
+      "model": "WeaponSkinShop.AK74_Cobalt",
+      "textureName": "AK74",
+      "sourceTexture": "weapons/firearms/assault_rifles/AK74",
+      "sourceIcon": "item_AK74.png"
+    },
+    {
+      "category": "Fuzis de assalto",
+      "item": "AKS74U",
+      "fullType": "MarzGuns.AKS74U",
+      "originalModel": "MarzGuns.AKS74U",
+      "model": "WeaponSkinShop.AKS74U_Cobalt",
+      "textureName": "AKS74U",
+      "sourceTexture": "weapons/firearms/assault_rifles/AKS74U",
+      "sourceIcon": "item_AKS74U.png"
+    },
+    {
+      "category": "Fuzis de assalto",
+      "item": "ASVAL",
+      "fullType": "MarzGuns.ASVAL",
+      "originalModel": "MarzGuns.ASVAL",
+      "model": "WeaponSkinShop.ASVAL_Cobalt",
+      "textureName": "ASVAL",
+      "sourceTexture": "weapons/firearms/assault_rifles/ASVAL",
+      "sourceIcon": "item_ASVAL.png"
+    },
+    {
+      "category": "Fuzis de assalto",
+      "item": "FAMAS",
+      "fullType": "MarzGuns.FAMAS",
+      "originalModel": "MarzGuns.FAMAS",
+      "model": "WeaponSkinShop.FAMAS_Cobalt",
+      "textureName": "FAMAS",
+      "sourceTexture": "weapons/firearms/assault_rifles/FAMAS",
+      "sourceIcon": "item_FAMAS.png"
+    },
+    {
+      "category": "Fuzis de assalto",
+      "item": "AK47",
+      "fullType": "MarzGuns.AK47",
+      "originalModel": "MarzGuns.AK47",
+      "model": "WeaponSkinShop.AK47_Cobalt",
+      "textureName": "AK47",
+      "sourceTexture": "weapons/firearms/assault_rifles/AK47",
+      "sourceIcon": "item_AK47.png"
+    },
+    {
+      "category": "Fuzis de batalha",
+      "item": "M14",
+      "fullType": "MarzGuns.M14",
+      "originalModel": "MarzGuns.M14",
+      "model": "WeaponSkinShop.M14_Cobalt",
+      "textureName": "M14",
+      "sourceTexture": "weapons/firearms/battle_rifles/M14",
+      "sourceIcon": "item_M14.png"
+    },
+    {
+      "category": "Fuzis de batalha",
+      "item": "M1_GARAND",
+      "fullType": "MarzGuns.M1_GARAND",
+      "originalModel": "MarzGuns.M1_GARAND",
+      "model": "WeaponSkinShop.M1_GARAND_Cobalt",
+      "textureName": "M1_GARAND",
+      "sourceTexture": "weapons/firearms/battle_rifles/M1_GARAND",
+      "sourceIcon": "item_M1_GARAND.png"
+    },
+    {
+      "category": "Fuzis de batalha",
+      "item": "FAL",
+      "fullType": "MarzGuns.FAL",
+      "originalModel": "MarzGuns.FAL",
+      "model": "WeaponSkinShop.FAL_Cobalt",
+      "textureName": "FAL",
+      "sourceTexture": "weapons/firearms/battle_rifles/FAL",
+      "sourceIcon": "item_FAL.png"
+    },
+    {
+      "category": "Fuzis de batalha",
+      "item": "G3",
+      "fullType": "MarzGuns.G3",
+      "originalModel": "MarzGuns.G3",
+      "model": "WeaponSkinShop.G3_Cobalt",
+      "textureName": "G3",
+      "sourceTexture": "weapons/firearms/battle_rifles/G3",
+      "sourceIcon": "item_G3.png"
+    },
+    {
+      "category": "Fuzis semiautomáticos",
+      "item": "SVD",
+      "fullType": "MarzGuns.SVD",
+      "originalModel": "MarzGuns.SVD",
+      "model": "WeaponSkinShop.SVD_Cobalt",
+      "textureName": "SVD",
+      "sourceTexture": "weapons/firearms/semi_rifles/SVD",
+      "sourceIcon": "item_SVD.png"
+    },
+    {
+      "category": "Fuzis semiautomáticos",
+      "item": "SKS",
+      "fullType": "MarzGuns.SKS",
+      "originalModel": "MarzGuns.SKS",
+      "model": "WeaponSkinShop.SKS_Cobalt",
+      "textureName": "SKS",
+      "sourceTexture": "weapons/firearms/semi_rifles/SKS",
+      "sourceIcon": "item_SKS.png"
+    },
+    {
+      "category": "Fuzis semiautomáticos",
+      "item": "PSG1",
+      "fullType": "MarzGuns.PSG1",
+      "originalModel": "MarzGuns.PSG1",
+      "model": "WeaponSkinShop.PSG1_Cobalt",
+      "textureName": "PSG1",
+      "sourceTexture": "weapons/firearms/semi_rifles/PSG1",
+      "sourceIcon": "item_PSG1.png"
+    },
+    {
+      "category": "Fuzis semiautomáticos",
+      "item": "CAMP_CARBINE",
+      "fullType": "MarzGuns.CAMP_CARBINE",
+      "originalModel": "MarzGuns.CAMP_CARBINE",
+      "model": "WeaponSkinShop.CAMP_CARBINE_Cobalt",
+      "textureName": "CAMP_CARBINE",
+      "sourceTexture": "weapons/firearms/semi_rifles/CAMP_CARBINE",
+      "sourceIcon": "item_CAMP_CARBINE.png"
+    },
+    {
+      "category": "Fuzis semiautomáticos",
+      "item": "MINI_14",
+      "fullType": "MarzGuns.MINI_14",
+      "originalModel": "MarzGuns.MINI_14",
+      "model": "WeaponSkinShop.MINI_14_Cobalt",
+      "textureName": "MINI_14",
+      "sourceTexture": "weapons/firearms/semi_rifles/MINI_14",
+      "sourceIcon": "item_MINI_14.png"
+    },
+    {
+      "category": "Fuzis de ferrolho",
+      "item": "MOSIN",
+      "fullType": "MarzGuns.MOSIN",
+      "originalModel": "MarzGuns.MOSIN",
+      "model": "WeaponSkinShop.MOSIN_Cobalt",
+      "textureName": "MOSIN",
+      "sourceTexture": "weapons/firearms/bolt_rifles/MOSIN",
+      "sourceIcon": "item_MOSIN.png"
+    },
+    {
+      "category": "Fuzis de ferrolho",
+      "item": "M24",
+      "fullType": "MarzGuns.M24",
+      "originalModel": "MarzGuns.M24",
+      "model": "WeaponSkinShop.M24_Cobalt",
+      "textureName": "M24",
+      "sourceTexture": "weapons/firearms/bolt_rifles/M24",
+      "sourceIcon": "item_M24.png"
+    },
+    {
+      "category": "Fuzis de ferrolho",
+      "item": "M1903",
+      "fullType": "MarzGuns.M1903",
+      "originalModel": "MarzGuns.M1903",
+      "model": "WeaponSkinShop.M1903_Cobalt",
+      "textureName": "M1903",
+      "sourceTexture": "weapons/firearms/bolt_rifles/M1903",
+      "sourceIcon": "item_M1903.png"
+    },
+    {
+      "category": "Fuzis de ferrolho",
+      "item": "REMINGTON_700",
+      "fullType": "MarzGuns.REMINGTON_700",
+      "originalModel": "MarzGuns.REMINGTON_700",
+      "model": "WeaponSkinShop.REMINGTON_700_Cobalt",
+      "textureName": "REMINGTON_700",
+      "sourceTexture": "weapons/firearms/bolt_rifles/REMINGTON_700",
+      "sourceIcon": "item_REMINGTON_700.png"
+    },
+    {
+      "category": "Fuzis de ferrolho",
+      "item": "MODEL_70",
+      "fullType": "MarzGuns.MODEL_70",
+      "originalModel": "MarzGuns.MODEL_70",
+      "model": "WeaponSkinShop.MODEL_70_Cobalt",
+      "textureName": "MODEL_70",
+      "sourceTexture": "weapons/firearms/bolt_rifles/MODEL_70",
+      "sourceIcon": "item_MODEL_70.png"
+    },
+    {
+      "category": "Fuzis de alavanca",
+      "item": "W1894",
+      "fullType": "MarzGuns.W1894",
+      "originalModel": "MarzGuns.W1894",
+      "model": "WeaponSkinShop.W1894_Cobalt",
+      "textureName": "W1894",
+      "sourceTexture": "weapons/firearms/lever_rifles/W1894",
+      "sourceIcon": "item_W1894.png"
+    },
+    {
+      "category": "Fuzis de alavanca",
+      "item": "M1895",
+      "fullType": "MarzGuns.M1895",
+      "originalModel": "MarzGuns.M1895",
+      "model": "WeaponSkinShop.M1895_Cobalt",
+      "textureName": "M1895",
+      "sourceTexture": "weapons/firearms/lever_rifles/M1895",
+      "sourceIcon": "item_M1895.png"
+    },
+    {
+      "category": "Fuzis de alavanca",
+      "item": "W1887",
+      "fullType": "MarzGuns.W1887",
+      "originalModel": "MarzGuns.W1887",
+      "model": "WeaponSkinShop.W1887_Cobalt",
+      "textureName": "W1887",
+      "sourceTexture": "weapons/firearms/lever_rifles/W1887",
+      "sourceIcon": "item_W1887.png"
+    },
+    {
+      "category": "Fuzis de alavanca",
+      "item": "W1873",
+      "fullType": "MarzGuns.W1873",
+      "originalModel": "MarzGuns.W1873",
+      "model": "WeaponSkinShop.W1873_Cobalt",
+      "textureName": "W1873",
+      "sourceTexture": "weapons/firearms/lever_rifles/W1873",
+      "sourceIcon": "item_W1873.png"
+    },
+    {
+      "category": "Fuzis de alavanca",
+      "item": "W1873_CARBINE",
+      "fullType": "MarzGuns.W1873_CARBINE",
+      "originalModel": "MarzGuns.W1873_CARBINE",
+      "model": "WeaponSkinShop.W1873_CARBINE_Cobalt",
+      "textureName": "W1873_CARBINE",
+      "sourceTexture": "weapons/firearms/lever_rifles/W1873_CARBINE",
+      "sourceIcon": "item_W1873_CARBINE.png"
+    },
+    {
+      "category": "Metralhadoras",
+      "item": "M60",
+      "fullType": "MarzGuns.M60",
+      "originalModel": "MarzGuns.M60",
+      "model": "WeaponSkinShop.M60_Cobalt",
+      "textureName": "M60",
+      "sourceTexture": "weapons/firearms/lmgs/M60",
+      "sourceIcon": "item_M60.png"
+    },
+    {
+      "category": "Metralhadoras",
+      "item": "BAR",
+      "fullType": "MarzGuns.BAR",
+      "originalModel": "MarzGuns.BAR",
+      "model": "WeaponSkinShop.BAR_Cobalt",
+      "textureName": "BAR",
+      "sourceTexture": "weapons/firearms/lmgs/BAR",
+      "sourceIcon": "item_BAR.png"
+    },
+    {
+      "category": "Lançadores",
+      "item": "M79",
+      "fullType": "MarzGuns.M79",
+      "originalModel": "MarzGuns.M79",
+      "model": "WeaponSkinShop.M79_Cobalt",
+      "textureName": "M79",
+      "sourceTexture": "weapons/firearms/launchers/M79",
+      "sourceIcon": "item_M79.png"
+    },
+    {
+      "category": "Lançadores",
+      "item": "M203_Weapon",
+      "fullType": "MarzGuns.M203_Weapon",
+      "originalModel": "MarzGuns.M16A2_M203_Underbarrel",
+      "model": "WeaponSkinShop.M203_Weapon_Cobalt",
+      "textureName": "M16A2_M203",
+      "sourceTexture": "weapons/firearms/assault_rifles/M16A2_M203",
+      "sourceIcon": "item_M16A2_M203.png"
+    },
+    {
+      "category": "Módulos acoplados",
+      "item": "MASTERKEY_Weapon",
+      "fullType": "MarzGuns.MASTERKEY_Weapon",
+      "originalModel": "MarzGuns.MOSSBERG_590",
+      "model": "WeaponSkinShop.MASTERKEY_Weapon_Cobalt",
+      "textureName": "MOSSBERG_590",
+      "sourceTexture": "weapons/firearms/shotguns/MOSSBERG_590",
+      "sourceIcon": "item_MOSSBERG_590.png"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+name=Weapon Skin Shop - Guns of Marz
+id=WeaponSkinShop
+author=Rafa
+modversion=1.2.0
+versionMin=42.19
+require=GunsOfMarz,ServerShop
+loadModAfter=GunsOfMarz,ServerShop
+description=Loja de skins Cobalto e Cyberpunk para 70 armas, com zPoints do Server Shop. Multiplayer/coop.
+poster=poster.png
